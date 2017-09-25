@@ -3,7 +3,8 @@ Theme: Flatfy Theme
 Author: Andrea Galanti
 Bootstrap Version 
 Build: 1.0
-http://www.andreagalanti.it
+www.andreagalanti.it
+Updated: Demitris G.Anastasiou (Sep 2017)
 */
 
 /*General */
@@ -225,6 +226,18 @@ filter: alpha(opacity=95) !important;
 	border: 1px solid #4A90BE;
 	color: #4A90BE !important;
 	background: rgba(204, 204, 204, 0);
+}
+
+.mybutton_red{
+	border: 1px solid #4A90BE;
+	color: #fff;
+	background-color:#4A90BE;
+}
+
+.mybutton_red:hover{
+	border: 1px solid #4A90BE;
+	color: #4A90BE !important;
+	background: rgba(255, 69, 0, 0.6);
 }
 
 .button_down img {
