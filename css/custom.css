@@ -421,7 +421,13 @@ NO MORE TABLES!! ;)
 	}
 }
 
-
+/*
+symbols
+*/
+.copyleft {
+	display:inline-block;
+	transform: rotate(180deg);
+  }
 
 
 
